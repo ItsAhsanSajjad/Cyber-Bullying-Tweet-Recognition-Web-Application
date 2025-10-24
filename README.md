@@ -1,3 +1,5 @@
+Cyber Bullying Tweet Detection (Machine Learning Project)
+
 This project focuses on analyzing tweets and detecting cyberbullying behavior using Machine Learning techniques.
 By understanding the words and patterns in a tweet, the model predicts whether it’s cyberbullying or non-cyberbullying, and if it’s cyberbullying, it further classifies it into six categories:
 
@@ -11,10 +13,15 @@ By understanding the words and patterns in a tweet, the model predicts whether i
 
 💬 Other Cyberbullying
 
+
+
 📊 Dataset Used
 
 Cyberbullying Classification Dataset from Kaggle
-🔗 View on Kaggle
+
+
+
+
 
 ⚙️ Approach
 
@@ -68,21 +75,32 @@ Built a front-end Web App using Streamlit for real-time prediction.
 
 Deployed the final application on Streamlit Cloud.
 
+
+
+
+
 🧩 Model Performance
 
 The SVM model achieved an impressive 84% accuracy in classifying tweets for cyberbullying detection.
+
+
+
 
 📚 Libraries Used
 
 pandas, numpy, matplotlib, seaborn, scipy, re, pickle, string, collections, statsmodels, nltk, emoji, wordcloud, streamlit
 
+
+
 ☁️ Deployment Platform
 
 Streamlit — used for creating and deploying the interactive web application.
 
+
+
 💻 How to Run the Project
 # Clone this repository
-git clone https://github.com/ItsAhsanSajjad/Cyber-Bullying-Tweet-Detection.git
+git clone https://github.com/ItsAhsanSajjad/Cyber-Bullying-Tweet-Recognition-Web-Application.git
 
 # Navigate to the project folder
 cd Cyber-Bullying-Tweet-Detection
@@ -93,9 +111,8 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 
-📈 Kaggle Notebook
 
-🔗 View the Kaggle Notebook
+
 
 👨‍💻 Author
 
